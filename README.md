@@ -1,2 +1,2 @@
 # Generative-Art-
-my attempts at coding classic generative art ideas and developing mine
+my implementation of generative art algorythms
